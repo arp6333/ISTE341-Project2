@@ -1,0 +1,10 @@
+<web-app>
+   <servlet>
+      <display-name>ParobekEP2</display-name>
+      <servlet-name>Project2.ApplicationConfig</servlet-name>
+      <init-param>
+         <param-name>javax.ws.rs.ApplicationConfig</param-name>
+         <param-value>Project2.ApplicationConfig</param-value>
+      </init-param>
+   </servlet>
+</web-app>
